@@ -3,3 +3,5 @@
 __pycache__/
 logs/*
 test_results/
+venv
+**/__pycache__
